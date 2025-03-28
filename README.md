@@ -1,3 +1,4 @@
 # This is first repo 
 
-* Created for practice
+* Created for practice and also for learning
+
